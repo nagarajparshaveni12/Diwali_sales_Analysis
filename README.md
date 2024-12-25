@@ -17,10 +17,15 @@ Effectiveness of promotional campaigns
 TECHNOLOGIES USED:
 
 This project utilizes the following technologies:
+
 Python: The primary programming language for data analysis.
+
 Pandas: For data manipulation and analysis.
+
 NumPy: For numerical operations.
+
 Matplotlib and Seaborn: For data visualization.
+
 Jupyter Notebook: For interactive data exploration and presentation.
 
 DATA SOURCES
